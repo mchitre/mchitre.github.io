@@ -72,7 +72,7 @@ hero_image: assets/images/head6.jpg
 5. **Chitre**, Legg and Koay, "Snapping shrimp dominated natural soundscape in Singapore waters", Contributions to Marine Science (Koh-Siang Tan, eds.), p127--134, National University of Singapore, 2012. [[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Chitre2012ly.pdf)]
 6. Shahabudeen, **Chitre** and Motani, "Dynamic TDMA And MACA based protocols for distributed topology underwater acoustic networks", Underwater Acoustic Sensor Networks (Yang Xiao, eds.), p197--224, Auerbach Publications, 2009. [[doi](http://dx.doi.org/10.1201/9781420067125-c8)]
 
-### Invited Papers
+### Keynote / Plenary / Invited Papers
 
 1. Mahmood and **Chitre**, "Detecting OSDM Signals in Sparse Channels and Snapping Shrimp Noise", Underwater Communications Networking (Ucomms 2018), 2018. [[doi](http://dx.doi.org/10.1109/UComms.2018.8493187)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Mahmood_Chitre_Ucomms2018.pdf)]
 2. Gao and **Chitre**, "On Distributed Processing for Underwater Cooperative Localization", 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2017), 2017. [[doi](http://dx.doi.org/10.1109/URAI.2017.7992655)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/GaoRuiURAI2017.pdf)]

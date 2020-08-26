@@ -111,7 +111,7 @@ show(db, lambda bib: bib['ENTRYTYPE'] == 'article')
 print("\n### Books & Chapters\n")
 show(db, lambda bib: bib['ENTRYTYPE'] == 'incollection')
 
-print("\n### Invited Papers\n")
+print("\n### Keynote / Plenary / Invited Papers\n")
 show(db, lambda bib: bib['ENTRYTYPE'] == 'conference' and invited(bib))
 
 print("\n### Conference Papers\n")
