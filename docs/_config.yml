@@ -5,7 +5,7 @@ baseurl: "/"
 url: "http://www.chitre.net/"
 favicon: /favicon.ico
 #google_analytics: UA-49024852-2
-footer_menu: footer
+#footer_menu: footer
 remote_theme: mchitre/bulma-clean-theme
 
 # Build settings
