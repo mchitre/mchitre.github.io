@@ -1,7 +1,7 @@
 title: Mandar Chitre
 description: >- # this means to ignore newlines until "baseurl:"
   Mandar Chitre's homepage
-baseurl: "/"
+baseurl: ""
 url: "http://www.chitre.net/"
 favicon: /favicon.ico
 #google_analytics: UA-49024852-2
