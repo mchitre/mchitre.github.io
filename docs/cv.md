@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 layout: page
 hero_height: is-fullwidth
-hero_image: assets/images/head1.jpg
+hero_image: assets/images/head4.jpg
 ---
 
 ### CURRENT AFFILIATIONS

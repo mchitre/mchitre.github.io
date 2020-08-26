@@ -2,7 +2,7 @@
 title: Contact Information
 layout: page
 hero_height: is-fullwidth
-hero_image: assets/images/head4.jpg
+hero_image: assets/images/head1.jpg
 ---
 
 **Postal address**:<br>
