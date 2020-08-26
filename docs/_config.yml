@@ -1,11 +1,11 @@
-title: Bulma Block List
+title: Mandar Chitre
 description: >- # this means to ignore newlines until "baseurl:"
-  Bulma Block List is a simple scss package extending Bulma with block style list elements
+  Mandar Chitre's homepage
 baseurl: "/chitre.net"
 url: "http://blog.chitre.net/chitre.net/"
-#gh_sponsor: chrisrhymes
 favicon: /favicon.ico
 #google_analytics: UA-49024852-2
+footer_menu: footer
 remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings

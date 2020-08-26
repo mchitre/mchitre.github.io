@@ -1,0 +1,14 @@
+- name: Research
+  link: /research
+- name: Software
+  link: /software
+- name: Publications
+  link: 'https://arl.nus.edu.sg/twiki6/bin/view/ARL/MandarChitre#Publications'
+- name: CV
+  link: /cv
+- name: Media
+  link: 'https://arl.nus.edu.sg/twiki6/bin/view/ARL/MediaCoverage'
+- name: Photography
+  link: 'https://www.flickr.com/photos/mandarchitre/albums'
+- name: Contact
+  link: /contact
