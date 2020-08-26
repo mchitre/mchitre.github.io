@@ -11,4 +11,4 @@ Mandar Chitre is currently the Head of the Acoustic Research Laboratory (ARL) at
 
 Mandar’s research interests include underwater acoustic communications & networking, ocean acoustics, signal processing & machine learning, and collaborative underwater robotics.
 
-Apart from his academic interests, Mandar has a strong passion for computing & software development, and considers theoretical physics a hobby. He also enjoys photography, scuba diving, seriously hot chilies, good wine, strange beers, and a game of contract bridge.
+Apart from his academic interests, Mandar has a strong passion for computing & software development, and considers theoretical physics a hobby. He also enjoys photography, scuba diving, cold places, seriously hot chilies, good wine, strange beers, and a game of contract bridge.
