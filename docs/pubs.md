@@ -5,16 +5,6 @@ hero_height: is-fullwidth
 hero_image: assets/images/head6.jpg
 ---
 
-
-### Books & Chapters
-
-1. Ganesan, **Chitre** and Brekke, "Robust Underwater Obstacle Detection for Collision Avoidance", Experimental Robotics (Hsieh, M. Ani and Khatib, Oussama and Kumar, Vijay, eds.), p777-790, Springer International Publishing, 2016. [[doi](http://dx.doi.org/10.1007/978-3-319-23778-7_51)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Ganesan_ISER2014_Robust_Underwater.pdf)]
-2. Eng and **Chitre**, "Roll Control of an Autonomous Underwater Vehicle Using an Internal Rolling Mass", Field and Service Robotics (Luis Mejias and Peter Corke and Jonathan Roberts, eds.), p229-242, Springer International Publishing, 2015. [[doi](http://dx.doi.org/10.1007/978-3-319-07488-7_16)]
-3. Tan and **Chitre**, "Direct Policy Search with Variable-Length Genetic Algorithm for Single Beacon Cooperative Path Planning", Distributed Autonomous Robotic Systems (Ani Hsieh, M. and Chirikjian, Gregory, eds.), p321-336, Springer Berlin Heidelberg, 2014. [[doi](http://dx.doi.org/10.1007/978-3-642-55146-8_23)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/DPS_William_Mandar.pdf)]
-4. Doniec, Topor, **Chitre** and Rus, "Autonomous, Localization-Free Underwater Data Muling Using Acoustic and Optical Communication", Experimental Robotics (J. P. Desai and G Dudek and O Khatib and V Kumar, eds.), p841--857, Springer, Heidelberg, 2013. [[doi](http://dx.doi.org/10.1007/978-3-319-00065-7_56)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/iser12-amour.pdf)]
-5. **Chitre**, Legg and Koay, "Snapping shrimp dominated natural soundscape in Singapore waters", Contributions to Marine Science (Koh-Siang Tan, eds.), p127--134, National University of Singapore, 2012. [[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Chitre2012ly.pdf)]
-6. Shahabudeen, **Chitre** and Motani, "Dynamic TDMA And MACA based protocols for distributed topology underwater acoustic networks", Underwater Acoustic Sensor Networks (Yang Xiao, eds.), p197--224, Auerbach Publications, 2009. [[doi](http://dx.doi.org/10.1201/9781420067125-c8)]
-
 ### Journal Papers
 
 1. Wong, Kalyan, **Chitre** and Vishnu, "Acoustic Assessment of Polymetallic Nodule Abundance Using Sidescan Sonar and Altimeter", IEEE Journal of Oceanic Engineering, 2020. [[doi](http://dx.doi.org/https://doi-org.libproxy1.nus.edu.sg/10.1109/JOE.2020.2967108)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/LJWong2020_JOE_Polymetallic.pdf)]
@@ -72,6 +62,15 @@ hero_image: assets/images/head6.jpg
 53. Dhar, Meng, Somani, Ye, Sakharkar, Krishnan, Ridwan, Wah, **Chitre** and Hao, "Grid Cellware: the first grid-enabled tool for modelling and simulating cellular processes", Bioinformatics, 21(7), p1284, 2005.
 54. Dhar, Meng, Somani, Ye, Sairam, **Chitre**, Hao and Sakharkar, "Cellware--a multi-algorithmic software for computational systems biology", Bioinformatics, 20(8), p1319, 2004.
 55. Potter and **Chitre**, "Ambient noise imaging in warm shallow seas; second-order moment and model-based imaging algorithms", The Journal Of The Acoustical Society Of America, 106(6), p3201-3210, 1999. [[doi](http://dx.doi.org/10.1121/1.428174)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Potter1999a.pdf)]
+
+### Books & Chapters
+
+1. Ganesan, **Chitre** and Brekke, "Robust Underwater Obstacle Detection for Collision Avoidance", Experimental Robotics (Hsieh, M. Ani and Khatib, Oussama and Kumar, Vijay, eds.), p777-790, Springer International Publishing, 2016. [[doi](http://dx.doi.org/10.1007/978-3-319-23778-7_51)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Ganesan_ISER2014_Robust_Underwater.pdf)]
+2. Eng and **Chitre**, "Roll Control of an Autonomous Underwater Vehicle Using an Internal Rolling Mass", Field and Service Robotics (Luis Mejias and Peter Corke and Jonathan Roberts, eds.), p229-242, Springer International Publishing, 2015. [[doi](http://dx.doi.org/10.1007/978-3-319-07488-7_16)]
+3. Tan and **Chitre**, "Direct Policy Search with Variable-Length Genetic Algorithm for Single Beacon Cooperative Path Planning", Distributed Autonomous Robotic Systems (Ani Hsieh, M. and Chirikjian, Gregory, eds.), p321-336, Springer Berlin Heidelberg, 2014. [[doi](http://dx.doi.org/10.1007/978-3-642-55146-8_23)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/DPS_William_Mandar.pdf)]
+4. Doniec, Topor, **Chitre** and Rus, "Autonomous, Localization-Free Underwater Data Muling Using Acoustic and Optical Communication", Experimental Robotics (J. P. Desai and G Dudek and O Khatib and V Kumar, eds.), p841--857, Springer, Heidelberg, 2013. [[doi](http://dx.doi.org/10.1007/978-3-319-00065-7_56)\|[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/iser12-amour.pdf)]
+5. **Chitre**, Legg and Koay, "Snapping shrimp dominated natural soundscape in Singapore waters", Contributions to Marine Science (Koh-Siang Tan, eds.), p127--134, National University of Singapore, 2012. [[pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Chitre2012ly.pdf)]
+6. Shahabudeen, **Chitre** and Motani, "Dynamic TDMA And MACA based protocols for distributed topology underwater acoustic networks", Underwater Acoustic Sensor Networks (Yang Xiao, eds.), p197--224, Auerbach Publications, 2009. [[doi](http://dx.doi.org/10.1201/9781420067125-c8)]
 
 ### Invited Papers
 

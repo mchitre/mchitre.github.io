@@ -103,14 +103,13 @@ title: Publications
 layout: page
 hero_height: is-fullwidth
 hero_image: assets/images/head6.jpg
----
-""")
-
-print("\n### Books & Chapters\n")
-show(db, lambda bib: bib['ENTRYTYPE'] == 'incollection')
+---""")
 
 print("\n### Journal Papers\n")
 show(db, lambda bib: bib['ENTRYTYPE'] == 'article')
+
+print("\n### Books & Chapters\n")
+show(db, lambda bib: bib['ENTRYTYPE'] == 'incollection')
 
 print("\n### Invited Papers\n")
 show(db, lambda bib: bib['ENTRYTYPE'] == 'conference' and invited(bib))
