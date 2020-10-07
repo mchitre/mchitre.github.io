@@ -69,6 +69,7 @@ hero_image: assets/images/head4.jpg
 
 ### SELECTED AWARDS
 
+* Distinguished Technical Achievement Award, IEEE Oceanic Engineering Society (2020)
 * Innovative Teaching Award (Gold), National University of Singapore (2016/2017)
 * Defence Technology Prize, Singapore – ROMANIS team (2004)
 * Engineering faculty teaching award honors list, National University of Singapore (2011)
