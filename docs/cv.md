@@ -45,12 +45,13 @@ hero_image: assets/images/head4.jpg
 ### MAJOR PROFESSIONAL ACTIVITIES
 
 * Executive Committee, IEEE Oceanic Engineering Soceity
-* Technical Co-Chair, IEEE Global OCEANS 2020 Singapore - US Gulf Coast
 * Technical Chair, IEEE OCEANS 2024 Singapore
+* Technical Co-chair, IEEE AUV 2022 Singapore
+* IEEE OES technology committee co-chair of underwater communication, navigation & positioning
 
 **Past:**
 
-* IEEE OES technology committee co-chair of underwater communication, navigation & positioning
+* Technical Co-Chair, IEEE Global OCEANS 2020 Singapore - US Gulf Coast
 * Associate Editor, IEEE Journal of Oceanic Engineering
 * Associate Technical Editor, IEEE Communications Magazine
 * Guest Editor, Special issue of IEEE Communications Magazine
@@ -78,7 +79,7 @@ hero_image: assets/images/head4.jpg
 
 ### GRADUATE STUDENTS & RESEARCH GRANTS
 
-* Current graduate students: 2 Ph.D., 1 M.Eng.
+* Current graduate students: 3 Ph.D.
 * Students graduated: 10 Ph.D., 10 M.Eng.
 * More than S$20M grants as PI
 * More than S$10M grants as co-PI or significant collaborator
