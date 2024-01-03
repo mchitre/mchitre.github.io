@@ -10,7 +10,6 @@ hero_image: assets/images/head4.jpg
 * Head, Acoustic Research Laboratory, Tropical Marine Science Institute, National University of Singapore
 * Associate Professor, Electrical and Computer Engineering Department, National University of Singapore
 * Founder & Non-executive Director, Subnero Pte. Ltd., Singapore
-* Editor-in-Chief, IEEE Journal of Oceanic Engineering
 
 ### SELECTED PAST PROFESSIONAL EXPERIENCE
 
@@ -36,6 +35,7 @@ hero_image: assets/images/head4.jpg
 
 ### COURSES TAUGHT
 
+* Differentiable & Probabilistic Computing
 * Engineering Principles & Practice
 * Real-time systems
 * Sensor Technology & Systems (Acoustics)
@@ -44,13 +44,13 @@ hero_image: assets/images/head4.jpg
 
 ### MAJOR PROFESSIONAL ACTIVITIES
 
-* Executive Committee, IEEE Oceanic Engineering Soceity
 * Technical Chair, IEEE OCEANS 2024 Singapore
-* Technical Co-chair, IEEE AUV 2022 Singapore
 * IEEE OES technology committee co-chair of underwater communication, navigation & positioning
 
 **Past:**
 
+* Editor-in-Chief (2018-2023), IEEE Journal of Oceanic Engineering
+* Technical Co-chair, IEEE AUV 2022 Singapore
 * Technical Co-Chair, IEEE Global OCEANS 2020 Singapore - US Gulf Coast
 * Associate Editor, IEEE Journal of Oceanic Engineering
 * Associate Technical Editor, IEEE Communications Magazine
@@ -79,7 +79,7 @@ hero_image: assets/images/head4.jpg
 
 ### GRADUATE STUDENTS & RESEARCH GRANTS
 
-* Current graduate students: 3 Ph.D.
-* Students graduated: 10 Ph.D., 10 M.Eng.
+* Current graduate students: 2 Ph.D.
+* Students graduated: 11 Ph.D., 10 M.Eng.
 * More than S$20M grants as PI
 * More than S$10M grants as co-PI or significant collaborator
