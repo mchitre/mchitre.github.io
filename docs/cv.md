@@ -45,7 +45,7 @@ hero_image: assets/images/head4.jpg
 ### MAJOR PROFESSIONAL ACTIVITIES
 
 * Technical Chair, IEEE OCEANS 2024 Singapore
-* IEEE OES technology committee co-chair of underwater communication, navigation & positioning
+* IEEE OES technology committee co-chair of underwater communication & positioning
 
 **Past:**
 
@@ -68,8 +68,9 @@ hero_image: assets/images/head4.jpg
 * Steering Committee, The National Science Challenge, 2004-2006
 * Technical Committee, Infocomm Specialist Development Programme, 2001-2002
 
-### SELECTED AWARDS
+### SELECTED AWARDS & HONORS
 
+* IEEE Fellow (2025)
 * Distinguished Technical Achievement Award, IEEE Oceanic Engineering Society (2020)
 * Innovative Teaching Award (Gold), National University of Singapore (2016/2017)
 * Defence Technology Prize, Singapore – ROMANIS team (2004)
