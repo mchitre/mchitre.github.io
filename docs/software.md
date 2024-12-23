@@ -13,9 +13,11 @@ Here is a list of publicly available software tools & systems that I develop, ma
 
 * [UnetStack](https://unetstack.net) -- project page, UnetStack download, documentation
 * [Unet handbook](https://unetstack.net/handbook/) -- an online book providing step-by-step guidance to working with UnetStack
+* [unetsockets](https://github.com/org-arl/unetsockets) -- various language interfaces to UnetStack
 * [unetpy](https://pypi.org/project/unetpy/) -- Python interface to UnetStack
 * [UnetSockets.jl](https://github.com/org-arl/UnetSockets.jl) -- Julia interface to UnetStack
-* [unet-contrib](https://contrib.unetstack.net/) -- UnetStack community repository
+* [UnetUtils.jl](https://github.com/org-arl/UnetUtils.jl) -- Julia utilities for working with UnetStack
+* [unet-ros2](https://github.com/org-arl/unet-ros2) -- experimental UnetStack-ROS2 gateway
 
 ### fjåge -- a general-purpose agent framework for Java/Groovy
 
@@ -44,12 +46,17 @@ The fjåge framework forms the core of not only UnetStack, but also several othe
 ### Julia packages & tools
 
 * [SignalAnalysis.jl](https://github.com/org-arl/SignalAnalysis.jl) -- Signal analysis toolbox
-* [UnderwaterAcoustics.jl](https://github.com/org-arl/UnderwaterAcoustics.jl) -- underwater acoustic propagation modeling tools, including an interface to [Bellhop](https://oalib-acoustics.org)<br><font size="-1">(Julia versions are aimed at being compatible with automatic differentiation and probabilistic programming)</font>
+* [UnderwaterAcoustics.jl](https://github.com/org-arl/UnderwaterAcoustics.jl) -- underwater acoustic propagation modeling tools
+  * [AcousticRayTracers.jl](https://github.com/org-arl/AcousticRayTracers.jl) -- differentiable acoustic ray-tracers
+  * [DataDrivenAcoustics.jl](https://github.com/org-arl/DataDrivenAcoustics.jl) -- data-driven acoustic propagation models
+  * [AcousticsToolbox.jl](https://github.com/org-arl/AcousticsToolbox.jl) -- interface to [Bellhop and Kraken](https://oalib-acoustics.org) acoustic propagation models
+* [VirtualAcousticOcean.jl](https://github.com/org-arl/VirtualAcousticOcean.jl) -- real-time underwater acoustic simulator
 * [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) -- interactive visualization tools
-* [jajub](https://github.com/org-arl/jajub) -- Java-Julia bridge, for Java applications with Julia components
 * [UnetSockets.jl](https://github.com/org-arl/UnetSockets.jl) -- Julia interface to UnetStack
 * [Fjage.jl](https://github.com/org-arl/Fjage.jl) -- Julia interface to fjåge
-
+* [ProtocolDataUnits.jl](https://github.com/org-arl/ProtocolDataUnits.jl) -- encoders & decoders for PDUs
+* [AdaptiveEstimators.jl](https://github.com/org-arl/AdaptiveEstimators.jl) -- adaptive filters, channel estimators and equalizers
+  
 ### Miscellaneous
 
 * [jhwbus](https://github.com/org-arl/jhwbus) -- Java hardware bus (I2C) access
