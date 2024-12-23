@@ -26,7 +26,7 @@ hero_image: assets/images/head4.jpg
 * M.Eng., National University of Singapore
 * B.Eng., National University of Singapore
 
-### OTHER QUALIFICATIONS & HONORS
+### OTHER QUALIFICATIONS
 
 * IEEE Fellow
 * PADI Dive Master
