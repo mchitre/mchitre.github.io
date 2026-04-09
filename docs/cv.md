@@ -49,12 +49,12 @@ hero_image: assets/images/head4.jpg
 
 ### MAJOR PROFESSIONAL ACTIVITIES
 
-* Technical Chair, IEEE OCEANS 2024 Singapore
 * IEEE OES technology committee co-chair of underwater communication & positioning
 
 **Past:**
 
 * Editor-in-Chief (2018-2023), IEEE Journal of Oceanic Engineering
+* Technical Chair, IEEE OCEANS 2024 Singapore
 * Technical Co-chair, IEEE AUV 2022 Singapore
 * Technical Co-Chair, IEEE Global OCEANS 2020 Singapore - US Gulf Coast
 * Associate Editor, IEEE Journal of Oceanic Engineering
@@ -75,6 +75,7 @@ hero_image: assets/images/head4.jpg
 
 ### SELECTED AWARDS
 
+* College Teaching Excellence Award (CDE), National University of Singapore (2024)
 * Distinguished Technical Achievement Award, IEEE Oceanic Engineering Society (2020)
 * Innovative Teaching Award (Gold), National University of Singapore (2016/2017)
 * Defence Technology Prize, Singapore – ROMANIS team (2004)
@@ -84,7 +85,7 @@ hero_image: assets/images/head4.jpg
 
 ### GRADUATE STUDENTS & RESEARCH GRANTS
 
-* Current graduate students: 2 Ph.D.
-* Students graduated: 11 Ph.D., 10 M.Eng.
+* Current graduate students: 1 Ph.D.
+* Students graduated: 13 Ph.D., 10 M.Eng.
 * More than S$20M grants as PI
 * More than S$10M grants as co-PI or significant collaborator
